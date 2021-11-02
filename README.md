@@ -1,3 +1,3 @@
-I'm Coop :D
-I code whenever I'm bored
-Look around, take a search❤️
+ - Hi I'm Cooper👋
+ - I code when I'm bored
+ - Have a look around <3
