@@ -46,8 +46,6 @@
 </div>
 
 ---
-<img align="right" width="400px" src="https://raw.githubusercontent.com/CoopTRUE/CoopTRUE/main/cat.jpg"/>
-
 - 🍇  **Lead developer** of the **[Grape Casino](https://casino.grapefinance.app)**
 - 🎰  **Lead developer** of the **[Miniverse Casino](https://mvcasino.mvfinance.club/)**
 - 🦍  **Full stack** web developer
