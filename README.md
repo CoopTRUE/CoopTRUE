@@ -7,7 +7,7 @@
 
 <div align="center">
 	<h1>Hi, I'm Cooper👋</h1>
-	<h3>A 16yo developer in the Bay Area</h3>
+	<h3>A developer in the Bay Area</h3>
 	<a href="https://twitter.com/CoopTrue" target="_blank">
 		<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/>
 	</a>
