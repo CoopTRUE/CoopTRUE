@@ -79,4 +79,4 @@
 <img src="https://raw.githubusercontent.com/CoopTRUE/CoopTRUE/output/snake.svg"/>
 </div>
 <br><br>
-<p align="center">This README is self made by me :D</p>
+<p align="center">This README is self made by me</p>
