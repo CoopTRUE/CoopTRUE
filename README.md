@@ -44,9 +44,10 @@
 </div>
 
 ---
-- 🎰  **Lead developer** of the [Grape Casino](https://casino.grapefinance.app)
+- 🍇  **Lead developer** of the [Grape Casino](https://casino.grapefinance.app)
 - 🎰  **Lead developer** of the [Miniverse Casino](https://mvcasino.mvfinance.club/)
 - 🦍  **Full stack** web developer
+- 👌  **Svelte** enjoyer
 - 💰  **DeFi** enthusiast
 - 🦀  Currently learning **Rust**
 - 📈  Working on [SynthEQ](https://github.com/CoopTRUE/SynthEQ)
