@@ -7,7 +7,7 @@
 
 <div align="center">
 	<h1>Hi, I'm Cooper👋</h1>
-	<h3>A fullstack developer in the Bay Area</h3>
+	<h3>A 16yo developer in the Bay Area</h3>
 </div>
 <br>
 <div align="center">
