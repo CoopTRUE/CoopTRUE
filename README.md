@@ -1,7 +1,7 @@
 
 <div align="center">
-	<img height="200px" src="https://github-readme-stats.vercel.app/api?hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=cooptrue" />
-	<img height="200px" src="https://avatars.githubusercontent.com/u/62957956" />
+	<img height="200px" src="https://github-readme-stats.vercel.app/api?hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=cooptrue"/>
+	<img height="200px" src="https://avatars.githubusercontent.com/u/62957956"/>
 </div>
 
 
@@ -37,6 +37,7 @@
 	<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
 	<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+	<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 	<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
@@ -48,4 +49,6 @@
 - 🦀  Currently learning **Rust**
 - 📈  Working on [SynthEQ](https://github.com/CoopTRUE/SynthEQ)
 
-<img align="center" src="https://raw.githubusercontent.com/CoopTRUE/CoopTRUE/output/snake.svg" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/CoopTRUE/CoopTRUE/output/snake.svg"/>
+</div>
