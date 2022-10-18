@@ -1,3 +1,4 @@
+
 <div align="center">
 	<img height="200px" src="https://github-readme-stats.vercel.app/api?hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=cooptrue" />
 	<img height="200px" src="https://avatars.githubusercontent.com/u/62957956" />
@@ -46,3 +47,5 @@
 - 🦍  **Full stack** web developer
 - 🦀  Currently learning **Rust**
 - 📈  Working on [SynthEQ](https://github.com/CoopTRUE/SynthEQ)
+
+<img align="center" src="https://raw.githubusercontent.com/CoopTRUE/CoopTRUE/output/snake.svg" />
