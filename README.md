@@ -8,6 +8,9 @@
 <div align="center">
 	<h1>Hi, I'm Cooper👋</h1>
 	<h3>A 16yo developer in the Bay Area</h3>
+	<a href="https://twitter.com/CoopTrue" target="_blank">
+		<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/>
+	</a>
 </div>
 <br>
 
@@ -23,7 +26,7 @@
 
 ### Here are some of my skills:
 
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -52,6 +55,7 @@
 	<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 	<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+	<img src="https://img.shields.io/badge/cryptography-%23000000.svg?style=for-the-badge"/>
 	<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -59,12 +63,20 @@
 </div>
 
 ---
+<br>
 
-### Here are some of my accomplishments
+## Accomplishments
 - **[Grape Casino (DeFi gambling site)](https://casino.grapefinance.app)**
 - **[Miniverse Casino (DeFi gambling site)](https://mvcasino.mvfinance.club/)**
-- **[Grape Casino (DeFi gambling site)](https://casino.grapefinance.app)**
 - **[Video-To-Ascii (Realtime video to ASCII transcoder)](https://github.com/CoopTRUE/Video-To-Ascii)**
+
+## Other skills
+- Stock and options trader
+- Computer builder
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/CoopTRUE/CoopTRUE/output/snake.svg"/>
 </div>
+<br><br>
+<p align="center">This README is self made by me :D</p>
