@@ -10,6 +10,19 @@
 	<h3>A 16yo developer in the Bay Area</h3>
 </div>
 <br>
+
+- 🍇  **Lead developer** of the **[Grape Casino](https://casino.grapefinance.app)**
+- 🎰  **Lead developer** of the **[Miniverse Casino](https://mvcasino.mvfinance.club/)**
+- 🦍  **Full stack** web developer
+- 👌  **Svelte** enjoyer
+- 💰  **DeFi** enthusiast
+- 🦀  Currently learning **Rust**
+- 📈  Working on **[SynthEQ](https://github.com/CoopTRUE/SynthEQ)**
+
+<br>
+
+### Here are some of my skills:
+
 <div align="center">
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -46,14 +59,12 @@
 </div>
 
 ---
-- 🍇  **Lead developer** of the **[Grape Casino](https://casino.grapefinance.app)**
-- 🎰  **Lead developer** of the **[Miniverse Casino](https://mvcasino.mvfinance.club/)**
-- 🦍  **Full stack** web developer
-- 👌  **Svelte** enjoyer
-- 💰  **DeFi** enthusiast
-- 🦀  Currently learning **Rust**
-- 📈  Working on **[SynthEQ](https://github.com/CoopTRUE/SynthEQ)**
 
+### Here are some of my accomplishments
+- **[Grape Casino (DeFi gambling site)](https://casino.grapefinance.app)**
+- **[Miniverse Casino (DeFi gambling site)](https://mvcasino.mvfinance.club/)**
+- **[Grape Casino (DeFi gambling site)](https://casino.grapefinance.app)**
+- **[Video-To-Ascii (Realtime video to ASCII transcoder)](https://github.com/CoopTRUE/Video-To-Ascii)**
 <div align="center">
 <img src="https://raw.githubusercontent.com/CoopTRUE/CoopTRUE/output/snake.svg"/>
 </div>
