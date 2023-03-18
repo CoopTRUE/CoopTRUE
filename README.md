@@ -20,7 +20,7 @@
 - 👌  **Svelte** enjoyer
 - 💰  **DeFi** enthusiast
 - 🦀  Currently learning **Rust**
-- 📈  Working on **[Alphag3n](https://alphag3n.com/)**
+- 📈  Working on **[SynthEQ](https://syntheq.io/)**
 
 <br>
 
