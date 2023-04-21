@@ -17,6 +17,7 @@
 - 🍇  **Lead developer** of the **[Grape Casino](https://casino.grapefinance.app)**
 - 🎰  **Lead developer** of the **[Miniverse Casino](https://mvcasino.mvfinance.club/)**
 - 🦍  **Full stack** web developer
+- 🤖  **Machine Learning** developer
 - 👌  **Svelte** enjoyer
 - 💰  **DeFi** enthusiast
 - 🦀  Currently learning **Rust**
@@ -32,6 +33,7 @@
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+	<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 	<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
