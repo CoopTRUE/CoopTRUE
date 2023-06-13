@@ -18,10 +18,11 @@
 - 🎰  **Lead developer** of the **[Miniverse Casino](https://mvcasino.mvfinance.club/)**
 - 🦍  **Full stack** web developer
 - 🤖  **Machine Learning** developer
+- 🤖  **Cryptography** fan
 - 👌  **Svelte** enjoyer
 - 💰  **DeFi** enthusiast
 - 🦀  Currently learning **Rust**
-- 📈  Working on **[SynthEQ](https://syntheq.io/)**
+- 📈  Working on **[CatDen](https://github.com/CoopTRUE/CatDen)**, an anonymous no-js chat room
 
 <br>
 
