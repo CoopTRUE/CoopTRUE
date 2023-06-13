@@ -18,7 +18,7 @@
 - 🎰  **Lead developer** of the **[Miniverse Casino](https://mvcasino.mvfinance.club/)**
 - 🦍  **Full stack** web developer
 - 🤖  **Machine Learning** developer
-- 🤖  **Cryptography** fan
+- 🔑  **Cryptography** fan
 - 👌  **Svelte** enjoyer
 - 💰  **DeFi** enthusiast
 - 🦀  Currently learning **Rust**
