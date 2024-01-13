@@ -61,7 +61,9 @@
 	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)"/>
 	<img src="https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
 	<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-	<img src="https://img.shields.io/badge/cryptography-%23000000.svg?style=for-the-badge"/>
+	<img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ethers.js-%23000000.svg?style=for-the-badge"/>
+	<img src="https://img.shields.io/badge/viem-%23000000.svg?style=for-the-badge"/>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
