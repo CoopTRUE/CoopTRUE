@@ -14,15 +14,15 @@
 </div>
 <br>
 
-- 🍇  **Lead developer** of the **[Grape Casino](https://casino.grapefinance.app)**
-- 🎰  **Lead developer** of the **[Miniverse Casino](https://mvcasino.mvfinance.club/)**
+- 🍇  **Lead developer** of the [Grape Casino](https://casino.grapefinance.app)
+- 🎰  **Creator** of  [0xVerify](https://0x-verify.vercel.app/verify)
 - 🦍  **Full stack** web developer
 - 🤖  **Machine Learning** developer
 - 🔑  **Cryptography** fan
 - 👌  **Svelte** enjoyer
 - 💰  **DeFi** enthusiast
 - 🦀  Currently learning **Rust**
-- 📈  Working on **[CatDen](https://github.com/CoopTRUE/CatDen)**, an anonymous no-js chat room
+- 📈  Working on [CatDen](https://github.com/CoopTRUE/CatDen), an anonymous no-js chat room
 
 <br>
 
